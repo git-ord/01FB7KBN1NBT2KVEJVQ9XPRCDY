@@ -1,0 +1,32 @@
+{
+  "id": "01FB7KBN1P09302GR7C10S4RH6",
+  "created_at": "2021-07-22T17:14:09+00:00",
+  "updated_at": "2021-07-22T17:14:09+00:00",
+  "name": "Handmade Cotton Shirt",
+  "images": {
+    "thumb": null,
+    "full": "http://placeimg.com/640/480/fashion"
+  },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [
+
+  ],
+  "quantity": {
+    "amount": 7,
+    "unit": "each"
+  },
+  "unit_price": {
+    "amount": 66,
+    "currency": "USD"
+  },
+  "subtotal": {
+    "amount": 462,
+    "currency": "USD"
+  },
+  "discounts": [
+
+  ]
+}
